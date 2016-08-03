@@ -1,7 +1,5 @@
 # caption-eval-general
 
-`git clone https://github.com/tylin/coco-caption.git`
-
 There are three pieces of codes here:
 
 1. languageEval_sent_list.py taks in the prediction and reference text file and
