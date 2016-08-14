@@ -1,5 +1,7 @@
 # caption-eval-general
 
+Caption evaluation code simplied from COCO dataset evaluation tool.
+
 There are three pieces of codes here:
 
 1. languageEval_sent_list.py taks in the prediction and reference text file and
